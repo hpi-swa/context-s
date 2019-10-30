@@ -1,0 +1,15 @@
+{
+	"category" : "ContextS2-Tests-Sandbox",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"username",
+		"admin" ],
+	"name" : "CSTestUser",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

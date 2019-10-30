@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"block" : "SO 1/16/2014 23:09:14.456",
+		"newWith:" : "PS 1/27/2014 22:59:55.957",
+		"strongBlock" : "SO 1/16/2014 23:09:03.886" },
+	"instance" : {
+		"addBlockAt:as:" : "SO 1/30/2014 21:59:51.748",
+		"blockCollisionHandler" : "mb 1/13/2014 21:40",
+		"blockCollisionHandler:" : "mb 1/13/2014 21:41",
+		"blockPrototype" : "tfel 5/9/2014 14:58",
+		"blockTypes" : "PS 1/12/2014 18:06:43.88",
+		"bubbleBlockCollisionHandler" : "mb 1/15/2014 12:01",
+		"bubbleBlockCollisionHandler:" : "mb 1/15/2014 12:01",
+		"initialize" : "mb 1/30/2014 14:57",
+		"isValidBlockTypeCharacter:" : "SO 1/16/2014 23:20:01.557",
+		"items" : "PS 1/27/2014 20:14:02.148",
+		"items:" : "PS 1/27/2014 20:14:02.199",
+		"remove:" : "PS 1/13/2014 11:40:46.685",
+		"revertBubbleBlocks" : "SO 1/30/2014 22:07:57.073",
+		"setCollisionHandlerForAll:" : "SO 1/30/2014 22:08:07.424",
+		"strongBlockPrototype" : "tfel 5/9/2014 14:58" } }

@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addMethodFrom:" : "ag 12/22/2011 11:55",
+		"test01AddCompiledMethodExistingNil" : "ag 12/22/2011 11:55",
+		"test02AddCompiledMethodExistingCompiledMethod" : "ag 12/22/2011 11:55",
+		"test03aAddCompiledMethodExistingLayeredMethodWithoutBase" : "ag 12/22/2011 11:57",
+		"test03bAddCompiledMethodExistingLayeredMethodWithBase" : "ag 12/22/2011 12:04",
+		"test04AddPartialMethodExistingNil" : "ag 12/22/2011 11:58",
+		"test05AddPartialMethodExistingCompiledMethod" : "tfel 2/29/2012 09:57:13.749",
+		"test06aAddPartialMethodExistingLayeredMethodLayerNoCombinationNotExistingWithBase" : "tfel 2/29/2012 10:23:24.443",
+		"test06bAddPartialMethodExistingLayeredMethodLayerNoCombinationNotExistingWithoutBase" : "tfel 2/29/2012 10:23:03.368",
+		"test06cAddPartialMethodExistingLayeredMethodLayerCombinationExistingSingle" : "ag 12/23/2011 11:31",
+		"test06dAddPartialMethodExistingLayeredMethodLayerCombinationExistingMultiple" : "ag 12/23/2011 11:31" } }

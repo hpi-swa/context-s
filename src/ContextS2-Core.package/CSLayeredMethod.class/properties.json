@@ -1,0 +1,17 @@
+{
+	"category" : "ContextS2-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"baseMethod",
+		"partialMethods",
+		"layerDict",
+		"proceedSelector" ],
+	"name" : "CSLayeredMethod",
+	"pools" : [
+		 ],
+	"super" : "CSMethodObject",
+	"type" : "normal" }

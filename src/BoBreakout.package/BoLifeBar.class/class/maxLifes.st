@@ -1,0 +1,4 @@
+constants
+maxLifes
+
+	^ 6

@@ -1,0 +1,21 @@
+{
+	"category" : "BoBreakout",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PS 1/19/2014 15:38:48.898",
+	"instvars" : [
+		"container",
+		"paddle",
+		"blocks",
+		"balls",
+		"currentLevel",
+		"levelDisplay",
+		"lifes",
+		"items" ],
+	"name" : "BoGame",
+	"pools" : [
+		 ],
+	"super" : "BoCollidableMorph",
+	"type" : "normal" }

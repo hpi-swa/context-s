@@ -1,0 +1,4 @@
+rendering
+beAdmin
+	
+	admin := true.

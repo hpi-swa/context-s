@@ -1,0 +1,4 @@
+constants
+invertPaddleControl
+
+	^ #invertPaddleControl

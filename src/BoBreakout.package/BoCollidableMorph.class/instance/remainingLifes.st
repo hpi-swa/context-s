@@ -1,0 +1,4 @@
+accessing
+remainingLifes
+
+	^ 1

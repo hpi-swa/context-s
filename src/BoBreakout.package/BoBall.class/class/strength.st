@@ -1,0 +1,4 @@
+constants
+strength
+
+	^ 1

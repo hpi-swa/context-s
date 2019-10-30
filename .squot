@@ -1,0 +1,5 @@
+OrderedDictionary {
+	'src\/ContextS2-Core.package' : #SquotCypressCodeSerializer,
+	'src\/ContextS2-Tests.package' : #SquotCypressCodeSerializer,
+	'src\/BoBreakout.package' : #SquotCypressCodeSerializer
+}

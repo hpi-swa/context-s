@@ -1,0 +1,16 @@
+{
+	"category" : "BoBreakout",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PS 1/19/2014 15:37:26.762",
+	"instvars" : [
+		"collisionHandler",
+		"referenceDotProduct",
+		"cachedDotProducts" ],
+	"name" : "BoCollidableMorph",
+	"pools" : [
+		 ],
+	"super" : "ImageMorph",
+	"type" : "normal" }

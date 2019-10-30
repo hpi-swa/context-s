@@ -1,0 +1,14 @@
+{
+	"category" : "BoBreakout",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PS 1/19/2014 15:43:18.026",
+	"instvars" : [
+		 ],
+	"name" : "BoBlockCollisionHandler",
+	"pools" : [
+		 ],
+	"super" : "BoBubbleBlockCollisionHandler",
+	"type" : "normal" }

@@ -1,0 +1,28 @@
+{
+	"class" : {
+		"allLayersMarker" : "ag 1/22/2012 15:22:53.043",
+		"baseMethodsMarker" : "ag 1/20/2012 22:16:40.498",
+		"nonLayeredMarker" : "ag 1/22/2012 10:34:34.381" },
+	"instance" : {
+		"buildContextLayerListWith:" : "ag 1/22/2012 18:20:57.702",
+		"buildMessageCategoryBrowserEditString:" : "tfel 2/23/2012 14:43:05.903",
+		"changed:" : "ag 1/31/2012 23:00:51.057",
+		"classListIndex:" : "tfel 2/23/2012 14:43:29.32",
+		"completeMessageList" : "ag 1/31/2012 15:29:58.83",
+		"contextLayerList" : "tfel 2/23/2012 14:41:46.439",
+		"contextLayerMenu:" : "ag 1/22/2012 18:25:48.119",
+		"defaultBrowserTitle" : "ag 1/12/2012 12:06",
+		"deleteSelectedLayer" : "ag 1/20/2012 21:42:35.885",
+		"initialize" : "ag 1/31/2012 15:32:27.19",
+		"messageCategoryList" : "ag 1/31/2012 23:05:22.837",
+		"messageList" : "ag 1/31/2012 22:54:34.758",
+		"metaClassIndicated:" : "ag 1/31/2012 15:33:37.095",
+		"openEditString:" : "ag 1/22/2012 18:09:56.262",
+		"removeMessage" : "tfel 2/23/2012 14:44:06.225",
+		"selectedLayer" : "ag 1/22/2012 14:46:04.694",
+		"selectedLayerIndex" : "ag 1/12/2012 12:45",
+		"selectedLayerIndex:" : "tfel 2/23/2012 14:43:49.154",
+		"selectedMessage" : "ag 1/22/2012 23:08:24.183",
+		"selectedMessageCategoryName" : "tfel 2/23/2012 14:41:58.076",
+		"selectedMessageName" : "ag 1/22/2012 23:06:18.598",
+		"selectedMethod" : "ag 1/22/2012 23:00:29.567" } }

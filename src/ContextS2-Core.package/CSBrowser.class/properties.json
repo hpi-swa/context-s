@@ -1,0 +1,16 @@
+{
+	"category" : "ContextS2-Core-Tools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"messageIconCache",
+		"selectedMessageReference",
+		"messages" ],
+	"name" : "CSBrowser",
+	"pools" : [
+		 ],
+	"super" : "Browser",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+constants
+startLifes 
+
+	^ 5

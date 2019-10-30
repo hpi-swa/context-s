@@ -1,0 +1,4 @@
+layer instances
+globalLayerName
+	
+	^ #cstest

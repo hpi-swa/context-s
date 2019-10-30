@@ -1,0 +1,14 @@
+{
+	"category" : "BoBreakout",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PS 1/21/2014 23:45:36.301",
+	"instvars" : [
+		 ],
+	"name" : "BoLifeBar",
+	"pools" : [
+		 ],
+	"super" : "BoMorphGroup",
+	"type" : "normal" }

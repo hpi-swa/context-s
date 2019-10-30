@@ -1,0 +1,15 @@
+{
+	"category" : "BoBreakout",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PS 1/19/2014 15:39:21.49",
+	"instvars" : [
+		"strength",
+		"balls" ],
+	"name" : "BoBall",
+	"pools" : [
+		 ],
+	"super" : "BoMovingMorph",
+	"type" : "normal" }

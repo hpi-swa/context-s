@@ -1,0 +1,4 @@
+constants
+lifeSpacing
+
+	^ 2

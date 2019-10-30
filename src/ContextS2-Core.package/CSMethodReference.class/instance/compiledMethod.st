@@ -1,0 +1,4 @@
+monticello
+compiledMethod
+
+	^ self method

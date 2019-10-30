@@ -1,0 +1,4 @@
+accessing
+cachedDotProducts
+
+	^ cachedDotProducts

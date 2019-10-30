@@ -1,0 +1,4 @@
+accessing
+referenceDotProduct
+
+	^ referenceDotProduct

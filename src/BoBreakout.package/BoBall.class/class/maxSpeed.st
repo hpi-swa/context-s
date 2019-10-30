@@ -1,0 +1,4 @@
+constants
+maxSpeed
+
+	^ 10

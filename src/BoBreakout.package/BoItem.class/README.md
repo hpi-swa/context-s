@@ -1,0 +1,1 @@
+I can give the player acces to special effects

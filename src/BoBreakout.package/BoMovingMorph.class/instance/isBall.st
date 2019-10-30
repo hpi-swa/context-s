@@ -1,0 +1,4 @@
+classification
+isBall
+
+	^ false

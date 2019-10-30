@@ -1,0 +1,15 @@
+{
+	"category" : "ContextS2-Core",
+	"classinstvars" : [
+		"isBootstrapping" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"methodClass",
+		"selector" ],
+	"name" : "CSMethodObject",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

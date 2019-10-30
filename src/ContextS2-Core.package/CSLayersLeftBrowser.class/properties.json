@@ -1,0 +1,17 @@
+{
+	"category" : "ContextS2-Core-Tools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"selectedLayerIndex",
+		"contextLayerList",
+		"messageCategoryList",
+		"messageList" ],
+	"name" : "CSLayersLeftBrowser",
+	"pools" : [
+		 ],
+	"super" : "CSFivePaneBrowser",
+	"type" : "normal" }

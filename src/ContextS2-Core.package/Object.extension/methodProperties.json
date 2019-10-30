@@ -1,0 +1,22 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"currentLayer" : "ag 12/23/2011 11:30",
+		"currentLayers" : "tfel 3/27/2012 11:53:40.826",
+		"isContextSLayer" : "topa 2/26/2016 13:30",
+		"isContextSMethod" : "tfel 2/23/2012 17:05:44.781",
+		"isContextSMethodReference" : "topa 3/24/2016 16:31",
+		"isPartial" : "topa 3/24/2016 16:48",
+		"proceed" : "tfel 3/27/2012 11:26:27.978",
+		"proceed:" : "tfel 3/27/2012 11:26:27.986",
+		"proceed:with:" : "tfel 3/27/2012 11:26:27.992",
+		"proceed:with:with:" : "tfel 3/27/2012 11:26:27.994",
+		"proceed:with:with:with:" : "tfel 3/27/2012 11:26:27.996",
+		"proceed:with:with:with:with:" : "tfel 3/27/2012 11:26:28",
+		"proceed:with:with:with:with:with:" : "tfel 3/27/2012 11:26:28.002",
+		"proceed:with:with:with:with:with:with:" : "tfel 3/27/2012 11:26:28.004",
+		"proceed:with:with:with:with:with:with:with:" : "tfel 3/27/2012 11:26:28.006",
+		"proceed:with:with:with:with:with:with:with:with:" : "tfel 3/27/2012 11:26:28.008",
+		"proceed:with:with:with:with:with:with:with:with:with:" : "tfel 3/27/2012 11:26:28.012",
+		"withArgs:executeMethod:" : "tfel 3/28/2012 12:27" } }

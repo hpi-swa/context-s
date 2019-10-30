@@ -1,0 +1,14 @@
+{
+	"category" : "ContextS2-Tests-Sandbox",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CSTestLayer",
+	"pools" : [
+		 ],
+	"super" : "CSLayer",
+	"type" : "normal" }

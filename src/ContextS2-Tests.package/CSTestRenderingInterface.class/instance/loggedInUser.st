@@ -1,0 +1,4 @@
+rendering
+loggedInUser
+	
+	^ loggedInUser

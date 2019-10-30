@@ -1,0 +1,4 @@
+collision
+calculateMoveLineSegments
+
+	^ self subclassResponsibility

@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"calculateDividendForIntersectionWith:" : "SO 1/30/2014 21:55:18.198",
+		"calculateFactorsToPointOfIntersectionWith:" : "PL 1/4/2014 22:29:22.546",
+		"calculateOwnFactorToPointOfIntersectionWith:" : "SO 1/30/2014 21:56:31.226",
+		"point" : "PL 1/4/2014 22:14:35.643",
+		"point:" : "PL 1/4/2014 22:14:35.687",
+		"vector" : "PL 1/4/2014 22:14:35.718",
+		"vector:" : "PL 1/4/2014 22:14:35.753" } }

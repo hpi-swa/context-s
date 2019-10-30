@@ -1,0 +1,4 @@
+collision
+collidesWith
+
+	^ self subclassResponsibility

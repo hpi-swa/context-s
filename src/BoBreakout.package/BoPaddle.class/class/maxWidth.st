@@ -1,0 +1,4 @@
+constants
+maxWidth
+
+	^ 160

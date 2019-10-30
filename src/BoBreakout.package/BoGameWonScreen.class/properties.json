@@ -1,0 +1,14 @@
+{
+	"category" : "BoBreakout",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PS 1/27/2014 20:29:54.114",
+	"instvars" : [
+		 ],
+	"name" : "BoGameWonScreen",
+	"pools" : [
+		 ],
+	"super" : "BoScreen",
+	"type" : "normal" }

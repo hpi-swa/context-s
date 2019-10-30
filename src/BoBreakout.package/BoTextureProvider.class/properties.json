@@ -1,0 +1,14 @@
+{
+	"category" : "BoBreakout",
+	"classinstvars" : [
+		"instance" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PS 1/19/2014 16:00:36.324",
+	"instvars" : [
+		"textures" ],
+	"name" : "BoTextureProvider",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

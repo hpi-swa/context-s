@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"applyDestroyEffectsOf:with:" : "PS 1/15/2014 22:29:41.104",
+		"handleCollisionWith:and:at:" : "PS 1/15/2014 22:30:21.68",
+		"isBubbleBlock" : "PS 1/19/2014 15:08:46.168",
+		"reflect:from:at:" : "PL 1/31/2014 15:50:34.551" } }

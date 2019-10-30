@@ -1,0 +1,4 @@
+partial methods
+myReturnMethod
+
+	^ #base

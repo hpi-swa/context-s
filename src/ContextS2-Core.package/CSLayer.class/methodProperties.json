@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"createGlobalInstanceOf:withName:" : "topa 3/1/2016 11:45",
+		"createNamed:" : "topa 3/1/2016 11:42",
+		"getGlobalInstanceOf:withName:" : "topa 3/1/2016 11:44",
+		"globalLayerName" : "topa 3/15/2016 15:55",
+		"instance" : "topa 3/15/2016 14:55",
+		"layerNamed:" : "topa 3/15/2016 15:52",
+		"new" : "ag 12/22/2011 15:54",
+		"removeGlobalInstanceNamed:" : "topa 2/26/2016 13:32",
+		"resetGlobalInstanceOf:withName:" : "topa 3/1/2016 13:40",
+		"resetInstance" : "topa 3/15/2016 14:55",
+		"resetLayer:" : "topa 3/15/2016 15:53",
+		"subclassedLayerNamed:ifPresent:ifAbsent:" : "topa 3/15/2016 15:52" },
+	"instance" : {
+		"allContainingLayeredMethods" : "ag 12/23/2011 15:14",
+		"allContainingMethods" : "ag 12/23/2011 15:16",
+		"allContainingPartialMethods" : "topa 3/15/2016 14:38",
+		"asLayer" : "ag 1/22/2012 14:52:09.315",
+		"initialize" : "topa 3/15/2016 14:45",
+		"initializeWithName:" : "topa 3/1/2016 11:24",
+		"isContextSLayer" : "topa 2/26/2016 13:31",
+		"layerName" : "ag 12/22/2011 17:16",
+		"reset" : "ag 12/23/2011 15:33",
+		"withLayerDo:" : "ag 1/27/2012 16:49:15.994" } }

@@ -1,0 +1,4 @@
+constants
+minReleaseAngle
+
+	^ 30

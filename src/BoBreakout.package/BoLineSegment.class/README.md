@@ -1,0 +1,1 @@
+I represent a lineSegment for a Point in a direction

@@ -1,0 +1,4 @@
+rendering
+getCanvas
+	
+	^ Transcript

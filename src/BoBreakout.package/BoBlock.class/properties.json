@@ -1,0 +1,19 @@
+{
+	"category" : "BoBreakout",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PS 1/19/2014 15:37:54.238",
+	"instvars" : [
+		"remainingLifes",
+		"blocks",
+		"destroySpeed",
+		"itemTypes",
+		"itemDropProbability",
+		"items" ],
+	"name" : "BoBlock",
+	"pools" : [
+		 ],
+	"super" : "BoCollidableMorph",
+	"type" : "normal" }

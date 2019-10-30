@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"generatedSelector" : "ag 12/21/2011 21:35",
+		"isAbstract" : "topa 3/15/2016 14:23" },
+	"instance" : {
+		"addMethodFrom:toClass:" : "topa 3/15/2016 14:21",
+		"baseCode" : "ag 12/21/2011 21:40",
+		"codeForLayers:" : "ag 12/22/2011 13:47",
+		"codeForLayers:withContent:" : "ag 12/22/2011 13:47",
+		"deleteMethod" : "ag 12/22/2011 11:42",
+		"generatedMethod" : "topa 3/15/2016 14:22",
+		"generatedSelector" : "ag 12/21/2011 21:35",
+		"setUp" : "ag 12/22/2011 11:42",
+		"singleLayerCode" : "ag 12/22/2011 11:51",
+		"tearDown" : "ag 1/27/2012 17:19:43.173",
+		"threeLayersCode" : "ag 12/22/2011 11:51",
+		"twoLayersCode" : "ag 12/22/2011 11:52" } }

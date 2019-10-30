@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"activateLayerInCurrentProcess" : "tfel 3/21/2012 16:01:51.691",
+		"asLayer" : "ag 1/22/2012 14:51:21.558",
+		"deactivateLayerInCurrentProcess" : "tfel 3/21/2012 16:02:29.832",
+		"layerName" : "ag 1/22/2012 14:52:50.783",
+		"withLayerDo:" : "ag 12/22/2011 15:26",
+		"withoutLayerDo:" : "ag 12/22/2011 15:26" } }

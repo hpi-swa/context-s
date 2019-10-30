@@ -1,0 +1,15 @@
+{
+	"category" : "BoBreakout",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PS 1/19/2014 15:59:47.202",
+	"instvars" : [
+		"timer",
+		"nullCollisionHandler" ],
+	"name" : "BoItemDropper",
+	"pools" : [
+		 ],
+	"super" : "BoMorphGroup",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+initialization
+setup
+
+	^ self subclassResponsibility 

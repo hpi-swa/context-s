@@ -1,0 +1,14 @@
+{
+	"category" : "BoBreakout",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PL 1/30/2014 22:21:08.133",
+	"instvars" : [
+		"parent" ],
+	"name" : "BoScreen",
+	"pools" : [
+		 ],
+	"super" : "ImageMorph",
+	"type" : "normal" }

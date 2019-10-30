@@ -1,0 +1,14 @@
+{
+	"category" : "ContextS2-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CSzzzConsistencyTest",
+	"pools" : [
+		 ],
+	"super" : "CSTestCase",
+	"type" : "normal" }

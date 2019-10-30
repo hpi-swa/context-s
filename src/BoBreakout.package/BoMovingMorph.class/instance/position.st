@@ -1,0 +1,4 @@
+geometry
+position
+
+	^ self realPosition 

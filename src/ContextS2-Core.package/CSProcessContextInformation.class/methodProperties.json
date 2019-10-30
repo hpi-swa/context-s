@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"activeLayers" : "ag 12/20/2011 20:00",
+		"activeLayers:" : "nw 12/12/2011 17:05",
+		"decrementProceedIndex" : "tfel 3/27/2012 11:20:35.435",
+		"incrementProceedIndex" : "tfel 3/27/2012 11:30:59.714",
+		"methodChain" : "ag 12/18/2011 11:13",
+		"methodChain:" : "tfel 3/27/2012 11:24:58.24",
+		"proceedIndex" : "tfel 3/27/2012 11:20:53.767",
+		"restoreStateFrom:" : "tfel 3/27/2012 11:21:03.837",
+		"saveState" : "tfel 3/27/2012 11:21:06.965",
+		"withLayers:do:" : "ag 12/20/2011 23:54" } }

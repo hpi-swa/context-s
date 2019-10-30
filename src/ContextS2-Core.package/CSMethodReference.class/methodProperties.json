@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"onMethod:" : "tfel 2/23/2012 18:54:11.379" },
+	"instance" : {
+		"asMethodDefinition" : "tfel 2/23/2012 19:06:54.797",
+		"category" : "topa 3/24/2016 16:54",
+		"compiledMethod" : "tfel 2/23/2012 18:42:27.33",
+		"isContextSMethodReference" : "topa 3/24/2016 16:31",
+		"isPartial" : "topa 3/24/2016 16:49",
+		"method" : "tfel 2/23/2012 18:40:15.256",
+		"method:" : "tfel 2/23/2012 18:40:15.277",
+		"methodSymbol" : "tfel 3/5/2012 16:12:34.389",
+		"printOn:" : "tfel 3/28/2012 13:56:57.964",
+		"source" : "tfel 2/23/2012 18:55:02.754",
+		"sourceCode" : "tfel 2/23/2012 18:55:09.204" } }

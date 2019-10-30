@@ -1,0 +1,19 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addLineFrom:to:ifValidInto:" : "SO 1/30/2014 21:32:56.557",
+		"cachedDotProducts" : "mb 1/22/2014 17:28",
+		"cachedDotProducts:" : "mb 1/22/2014 17:28",
+		"calculateBorderLineSegmentBetween:and:" : "mb 1/30/2014 15:07",
+		"calculateBorderLineSegmentsFor:" : "SO 1/30/2014 21:33:36.061",
+		"collisionHandler" : "mb 1/13/2014 21:51",
+		"collisionHandler (bubbleBlocks)" : "tfel 5/9/2014 14:43",
+		"collisionHandler:" : "mb 1/13/2014 21:52",
+		"facingToDirection:" : "mb 1/22/2014 18:03",
+		"handleCollisionWith:at:" : "mb 1/13/2014 21:53",
+		"loadBackgroundWithName:" : "mb 1/30/2014 15:14",
+		"preCalculateDotProductsFor:" : "SO 1/30/2014 21:33:53.06",
+		"referenceDotProduct" : "mb 1/22/2014 11:49",
+		"referenceDotProduct:" : "mb 1/22/2014 11:49",
+		"remainingLifes" : "tfel 5/9/2014 15:02" } }

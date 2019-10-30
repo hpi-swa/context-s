@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"applyCollisionEffectsOf:with:" : "tfel 5/9/2014 15:32",
+		"applyDestroyEffectsOf:with:" : "PS 1/14/2014 15:18:10.133",
+		"handleCollisionWith:and:at:" : "PS 1/14/2014 15:18:22.558",
+		"isBubbleBlock" : "PS 1/19/2014 15:08:27.612" } }

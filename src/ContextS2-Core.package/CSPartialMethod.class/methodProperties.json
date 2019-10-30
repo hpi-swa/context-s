@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"checkConsistencyOfInstances" : "ag 1/30/2012 13:08:04.048",
+		"fixConsistencyOfInstances" : "ag 1/27/2012 17:48:46.172",
+		"on:forMethod:" : "topa 3/15/2016 17:48" },
+	"instance" : {
+		"=" : "topa 3/15/2016 16:45",
+		"asPartialMethod" : "tfel 2/29/2012 11:40:43.189",
+		"asSymbol" : "tfel 3/6/2012 11:03:21.136",
+		"basicLayers" : "topa 3/15/2016 16:43",
+		"hash" : "topa 3/15/2016 16:45",
+		"isBase" : "topa 3/15/2016 16:46",
+		"isPartialMethod" : "topa 3/3/2016 11:14",
+		"layers" : "topa 3/15/2016 16:46",
+		"method" : "topa 3/15/2016 17:36",
+		"printLayersOn:" : "ag 12/23/2011 15:28",
+		"printOn:" : "topa 3/15/2016 17:52",
+		"setLayers:" : "topa 3/15/2016 17:40",
+		"setMethod:" : "topa 3/15/2016 17:49",
+		"valueWithReceiver:arguments:" : "topa 3/15/2016 17:50" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "ContextS2-Tests-Sandbox",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"executedMethods" ],
+	"name" : "CSClassA",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

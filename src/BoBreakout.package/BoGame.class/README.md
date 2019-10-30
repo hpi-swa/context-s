@@ -1,0 +1,1 @@
+I am the part of Breakout which observes level flow and I represent the gameField borders

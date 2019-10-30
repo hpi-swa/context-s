@@ -1,0 +1,14 @@
+{
+	"category" : "ContextS2-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"layerName" ],
+	"name" : "CSLayer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

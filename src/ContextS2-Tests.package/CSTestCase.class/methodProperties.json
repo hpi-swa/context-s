@@ -1,0 +1,6 @@
+{
+	"class" : {
+		"isAbstract" : "topa 3/15/2016 14:24" },
+	"instance" : {
+		"checkConsistencyEachTest" : "ag 1/31/2012 15:37:35.213",
+		"tearDown" : "ag 1/31/2012 15:38:40.644" } }

@@ -1,0 +1,28 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"a" : "mpe 11/7/2010 18:30",
+		"a:" : "mpe 11/7/2010 18:30",
+		"layers:shouldResultIn:" : "ag 12/21/2011 20:58",
+		"setUp" : "mpe 11/7/2010 18:30",
+		"test01ExecuteBaseMethod" : "ag 1/27/2012 17:31:58.672",
+		"test02ExecuteBeforeBaseMethod" : "ag 12/21/2011 16:05",
+		"test04aExecuteBeforeBaseAfterMethod" : "ag 1/30/2012 11:44:02.336",
+		"test04bExecuteBeforeBaseAfterMethod" : "ag 12/21/2011 16:06",
+		"test05ExecuteAroundMethod" : "ag 12/21/2011 16:06",
+		"test06ExecuteAroundProceedBaseMethod" : "ag 12/21/2011 16:06",
+		"test07aExecuteAroundProceedAroundMethod" : "ag 12/21/2011 16:07",
+		"test07bExecuteAroundProceedAroundMethod" : "ag 12/21/2011 20:40",
+		"test08ExecuteBeforeAroundAfterMethod" : "ag 12/21/2011 16:07",
+		"test09ExecuteBeforeAroundProceedBaseAfterMethod" : "ag 12/21/2011 20:57",
+		"test09aExecuteBeforeAroundProceedBaseAfterMethod" : "ag 12/21/2011 20:42",
+		"test10ExecuteBeforeAroundProceedAroundAfterMethod" : "ag 12/21/2011 16:11",
+		"test10aExecuteBeforeAroundProceedAroundAfterMethod" : "ag 12/21/2011 16:11",
+		"test11aReturnValueFromAround" : "ag 12/21/2011 20:57",
+		"test11bReturnValueFromBase" : "ag 12/21/2011 12:01",
+		"test12MultipleChainedProceeds" : "ag 12/21/2011 16:13",
+		"test13MultipleChainedProceedsWithoutBase" : "ag 12/21/2011 20:58",
+		"test13aMultipleChainedProceedsWithoutBase" : "ag 12/21/2011 16:14",
+		"test14MultiArgumentProceed" : "ag 12/23/2011 16:57",
+		"test15BaseMethodOverriddenInSubclassWithLayerInSuperclass" : "tfel 3/7/2012 12:04:09.927" } }

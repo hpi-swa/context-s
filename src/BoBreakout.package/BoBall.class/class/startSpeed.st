@@ -1,0 +1,4 @@
+constants
+startSpeed
+
+	^ 6

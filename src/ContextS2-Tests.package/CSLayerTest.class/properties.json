@@ -1,0 +1,14 @@
+{
+	"category" : "ContextS2-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CSLayerTest",
+	"pools" : [
+		 ],
+	"super" : "CSTestCase",
+	"type" : "normal" }

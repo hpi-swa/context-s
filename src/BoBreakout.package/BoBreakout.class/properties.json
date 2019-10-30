@@ -1,0 +1,15 @@
+{
+	"category" : "BoBreakout",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PS 1/19/2014 15:36:54.145",
+	"instvars" : [
+		"activeScreen",
+		"screenCatalog" ],
+	"name" : "BoBreakout",
+	"pools" : [
+		 ],
+	"super" : "ImageMorph",
+	"type" : "normal" }

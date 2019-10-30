@@ -1,0 +1,18 @@
+{
+	"category" : "BoBreakout",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PS 1/19/2014 15:41:32.831",
+	"instvars" : [
+		"balls",
+		"leftKeyDown",
+		"rightKeyDown",
+		"hasBall",
+		"isInverted" ],
+	"name" : "BoPaddle",
+	"pools" : [
+		 ],
+	"super" : "BoMovingMorph",
+	"type" : "normal" }

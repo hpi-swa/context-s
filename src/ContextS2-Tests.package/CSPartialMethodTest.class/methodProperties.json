@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"deleteMethod" : "ag 12/22/2011 13:50",
+		"partialCountMethod" : "ag 12/22/2011 13:48",
+		"partialMethodFrom:" : "ag 12/22/2011 13:59",
+		"partialSubCountMethod" : "ag 12/22/2011 13:49",
+		"partialSubSuperCountMethod" : "ag 12/22/2011 13:49",
+		"setUp" : "ag 12/22/2011 13:50",
+		"test01CompilePartialMethodAndToClass" : "ag 12/23/2011 11:31",
+		"test02aCallPartialMethod" : "topa 3/15/2016 14:26",
+		"test02bCallPartialMethodFromInstance" : "ag 12/22/2011 14:04",
+		"test03CallPartialMethodWithSuperCall" : "ag 12/22/2011 14:00",
+		"test03aCallPartialMethodWithSuperCall" : "ag 12/22/2011 14:05",
+		"test04CallPartialMethodWithSuperCallToStandardMethod" : "ag 12/22/2011 14:05",
+		"test05CallPartialMethodFromSubclass" : "ag 12/22/2011 14:00",
+		"test05aCallPartialMethodFromSubclass" : "ag 12/22/2011 14:06" } }

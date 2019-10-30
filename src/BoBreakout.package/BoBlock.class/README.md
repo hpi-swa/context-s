@@ -1,0 +1,1 @@
+I am a Block which can be destroyed in Breakout

@@ -1,0 +1,14 @@
+{
+	"category" : "ContextS2-Core-Tools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"selectedLayerSymbol" ],
+	"name" : "CSLayersRightBrowser",
+	"pools" : [
+		 ],
+	"super" : "CSFivePaneBrowser",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+constants
+distance
+
+	^ 10

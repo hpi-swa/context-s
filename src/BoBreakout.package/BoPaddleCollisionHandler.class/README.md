@@ -1,0 +1,1 @@
+I handle collisions with the Paddle

@@ -1,0 +1,4 @@
+constants
+baseMethodsMarker
+	
+	^ #'-- base methods --'

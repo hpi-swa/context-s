@@ -1,0 +1,15 @@
+{
+	"category" : "BoBreakout",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PS 1/19/2014 16:00:24.611",
+	"instvars" : [
+		"triggerTime",
+		"action" ],
+	"name" : "BoTask",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

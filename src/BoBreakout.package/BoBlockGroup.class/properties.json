@@ -1,0 +1,16 @@
+{
+	"category" : "BoBreakout",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PS 1/19/2014 15:59:35.387",
+	"instvars" : [
+		"blockCollisionHandler",
+		"bubbleBlockCollisionHandler",
+		"items" ],
+	"name" : "BoBlockGroup",
+	"pools" : [
+		 ],
+	"super" : "BoMorphGroup",
+	"type" : "normal" }

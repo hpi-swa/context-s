@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"named:" : "ag 1/27/2012 16:51:21.396" },
+	"instance" : {
+		"beAdmin" : "ag 2/1/2012 16:28:17.724",
+		"initialize" : "ag 2/1/2012 16:29:17.02",
+		"isAdmin" : "ag 2/1/2012 16:28:10.628",
+		"renderDetails:" : "ag 1/27/2012 16:32:12.59",
+		"renderEditButton:" : "ag 1/27/2012 16:52:28.335",
+		"renderEmail:" : "ag 1/27/2012 16:32:29.492",
+		"renderForbidden:" : "ag 2/1/2012 16:27:28.193",
+		"renderProfileIcon:" : "ag 1/27/2012 16:32:38.278",
+		"renderUsername:" : "ag 2/1/2012 16:29:58.116",
+		"username" : "ag 1/27/2012 16:34:40.556",
+		"username:" : "ag 1/27/2012 16:34:48.534" } }

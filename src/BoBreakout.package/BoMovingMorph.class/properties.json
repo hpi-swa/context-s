@@ -1,0 +1,23 @@
+{
+	"category" : "BoBreakout",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PS 1/19/2014 15:39:09.035",
+	"instvars" : [
+		"realPosition",
+		"speed",
+		"direction",
+		"game",
+		"isFirstChecking",
+		"objectOfCollision",
+		"nextCollisionPoint",
+		"nextCollisionDistance",
+		"remainingStep",
+		"moveLineSegments" ],
+	"name" : "BoMovingMorph",
+	"pools" : [
+		 ],
+	"super" : "BoCollidableMorph",
+	"type" : "normal" }

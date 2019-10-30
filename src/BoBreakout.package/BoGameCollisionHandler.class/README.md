@@ -1,0 +1,1 @@
+I handle the collision with the gameField borders

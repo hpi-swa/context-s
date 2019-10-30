@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"itemSpeed" : "PL 1/8/2014 11:40:49.308",
+		"newOn:with:and:perform:" : "PS 1/27/2014 22:57:22.89" },
+	"instance" : {
+		"applyEffect" : "tfel 5/9/2014 15:33",
+		"calculateMoveLineSegments" : "mb 1/30/2014 23:57",
+		"collidesWith" : "PS 12/10/2013 14:42:49.199",
+		"effectBlock" : "PS 1/15/2014 22:36:23.502",
+		"effectBlock:" : "PS 1/15/2014 22:36:23.561",
+		"initialize" : "PL 1/31/2014 15:46:22.003",
+		"isItem" : "PS 12/10/2013 14:31:40.975",
+		"items" : "PS 1/12/2014 17:51:38.881",
+		"items:" : "PS 1/12/2014 17:51:38.911",
+		"remove" : "PS 1/12/2014 17:51:44.817" } }

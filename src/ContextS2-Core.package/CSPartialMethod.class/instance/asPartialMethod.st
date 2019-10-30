@@ -1,0 +1,4 @@
+converting
+asPartialMethod
+
+	^ self

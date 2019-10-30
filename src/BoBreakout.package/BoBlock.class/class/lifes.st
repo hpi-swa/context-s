@@ -1,0 +1,4 @@
+constants
+lifes
+
+	^ 1

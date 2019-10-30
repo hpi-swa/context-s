@@ -1,0 +1,4 @@
+constants
+resizeValue
+
+	^ 20

@@ -1,0 +1,4 @@
+constants
+minWidth
+
+	^ 40

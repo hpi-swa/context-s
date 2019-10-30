@@ -1,0 +1,4 @@
+constants
+generatedSelector
+
+	^ #generatedPartialMethod

@@ -1,0 +1,17 @@
+{
+	"category" : "BoBreakout",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PS 1/19/2014 15:59:21.91",
+	"instvars" : [
+		"collisionHandler",
+		"lifes",
+		"paddle",
+		"items" ],
+	"name" : "BoBallBasket",
+	"pools" : [
+		 ],
+	"super" : "BoMorphGroup",
+	"type" : "normal" }

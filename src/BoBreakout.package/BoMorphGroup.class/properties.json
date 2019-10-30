@@ -1,0 +1,15 @@
+{
+	"category" : "BoBreakout",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PS 1/19/2014 15:58:59.236",
+	"instvars" : [
+		"game",
+		"morphs" ],
+	"name" : "BoMorphGroup",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
