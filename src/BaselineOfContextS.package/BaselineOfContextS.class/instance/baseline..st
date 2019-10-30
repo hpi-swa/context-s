@@ -6,8 +6,8 @@ baseline: spec
 		do: [
 			spec
 				package: 'ContextS2-Core' with: [];
-				package: 'ContextS2-Tests' with: [spec requires: #('core')];
-				package: 'BoBreakout' with: [spec requires: #('core')];
+				package: 'ContextS2-Tests' with: [spec requires: #('ContextS2-Core')];
+				package: 'BoBreakout' with: [spec requires: #('ContextS2-Core')];
 				yourself.
 			spec
 				group: 'default' with: #('ContextS2-Core');
